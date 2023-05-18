@@ -1,2 +1,2 @@
 # odin-recipes
-test
+This is just an Odin I was required to do to learn.
